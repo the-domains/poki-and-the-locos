@@ -2,6 +2,7 @@ name: 'Poki & the Locos'
 favicon: null
 layout_spectrum: 0.74685
 typography_spectrum: 0.23804
+title: CoverBand
 cta:
   domain: null
   bucket: null
