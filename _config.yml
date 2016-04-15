@@ -1,0 +1,28 @@
+name: 'Poki & the Locos'
+favicon: null
+layout_spectrum: 0.28359648841433227
+typography_spectrum: 0.24097183858975768
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7093735984526575
+  lightness: 0.9324785911012441
+  saturation: 0.5318890153430402
+  rhythmicContrast: 0.973787471652031
+purpose: []
