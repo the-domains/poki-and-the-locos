@@ -1,29 +1,41 @@
-name: 'Poki & the Locos'
-favicon: null
-layout_spectrum: 0.74685
-typography_spectrum: 0.23804
 title: CoverBand
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.8125
+  brandStrength: 1
+  lightness: 0.1379928
+  brandColors:
+    - '#000000'
+    - '#32332C'
+    - '#F1D037'
+    - '#F15E22'
+    - '#A35158'
+  rhythmicContrast: 1
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: 'Poki & the Locos'
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#e8f9ff'
-    - '#00022c'
-    - '#ffbdaf'
-    - '#583c2e'
-    - '#e13d5b'
-  brandStrength: 1
-  lightness: 0.75
-  saturation: 0.8125
-  rhythmicContrast: 1
-purpose: []
+typography_spectrum: 0.6003584
+layout_spectrum: 0.453405
