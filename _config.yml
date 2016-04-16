@@ -13,16 +13,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.5125448
+  saturation: 0
   brandStrength: 0.4928315
-  rhythmicContrast: 1
+  lightness: 0.7580645
   brandColors:
     - '#FFFFFF'
     - '#171520'
     - '#5430CE'
     - '#FB7FAC'
     - '#6F916D'
-  lightness: 0.4874552
+  rhythmicContrast: 0
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: 'Poki & the Locos'
 favicon: null
+name: 'Poki & the Locos'
 opengraph:
   image: null
   type: null
