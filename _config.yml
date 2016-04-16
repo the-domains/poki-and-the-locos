@@ -1,8 +1,5 @@
-typography_spectrum: 0.6003584
-opengraph:
-  image: null
-  type: null
-  appId: null
+title: CoverBand
+purpose: []
 collections:
   - index:
       path: /
@@ -15,9 +12,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.6971326
-title: CoverBand
-purpose: []
 color:
   saturation: 0.5125448
   brandStrength: 0.4928315
@@ -33,9 +27,15 @@ cta:
   bucket: null
   version: null
   domain: null
-favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
 name: 'Poki & the Locos'
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0
+layout_spectrum: 1
