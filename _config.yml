@@ -6,22 +6,22 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.8125
-  brandStrength: 1
-  lightness: 0.1379928
+  saturation: 0.5125448
+  brandStrength: 0.4928315
+  lightness: 0.4874552
   brandColors:
-    - '#000000'
-    - '#32332C'
-    - '#F1D037'
-    - '#F15E22'
-    - '#A35158'
+    - '#FFFFFF'
+    - '#171520'
+    - '#5430CE'
+    - '#FB7FAC'
+    - '#6F916D'
   rhythmicContrast: 1
 cta:
   bucket: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: 'Poki & the Locos'
 favicon: null
+name: 'Poki & the Locos'
 opengraph:
   image: null
   type: null
