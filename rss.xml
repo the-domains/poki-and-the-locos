@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[CoverBand]]></title>
-        <description><![CDATA[CoverBand]]></description>
+        <title><![CDATA[POKI & THE LOCOS]]></title>
+        <description><![CDATA[POKI & THE LOCOS]]></description>
         <link>https://thegrid.ai/poki-and-the-locos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 09:04:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 08:44:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/poki-and-the-locos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/poki-and-the-locos/a61689af-93d8-445d-b404-114bb31f656f/index.html</link>
             <guid isPermaLink="false">a61689af-93d8-445d-b404-114bb31f656f</guid>
             <pubDate>Sat, 16 Apr 2016 08:54:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sommarturné till Finland 21-31 Juli]]></title>
+            <description><![CDATA[<article><h1>Sommarturné till Finland 21-31 Juli</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/404cce7f-be59-45bc-8601-5a597aee24c5.png"></article>]]></description>
+            <link>urn:uuid:e9a0de63-c4d0-4d2a-b082-10c8fae371ff</link>
+            <guid isPermaLink="false">48c2ba6b-bf97-465c-ae9c-ddd8f7f7c2cd</guid>
+            <pubDate>Mon, 18 Apr 2016 08:43:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gigtime...]]></title>
