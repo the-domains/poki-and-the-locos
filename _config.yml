@@ -1,5 +1,8 @@
-title: CoverBand
-purpose: []
+name: 'Poki & the Locos'
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0
+title: 'POKI & THE LOCOS'
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
-  brandStrength: 0
-  lightness: 0.7580645
   brandColors:
     - '#FFFFFF'
     - '#171520'
     - '#5430CE'
     - '#FB7FAC'
     - '#6F916D'
+  brandStrength: 0
+  lightness: 0.7580645
+  saturation: 0
   rhythmicContrast: 0
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: 'Poki & the Locos'
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0
-layout_spectrum: 1
+purpose: []
