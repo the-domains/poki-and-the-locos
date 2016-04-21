@@ -13,7 +13,7 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 1
+  saturation: 0
   brandStrength: 1
   lightness: 1
   brandColors:
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: 'Poki & the Locos'
 favicon: null
+name: 'Poki & the Locos'
 opengraph:
   image: null
   type: null
