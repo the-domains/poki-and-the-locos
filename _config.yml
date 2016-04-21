@@ -1,41 +1,41 @@
-name: 'Poki & the Locos'
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.75206
 title: 'POKI & THE LOCOS'
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 1
+  brandStrength: 0.001792115
+  lightness: 1
   brandColors:
     - '#01000e'
     - '#ffffff'
     - '#0027e2'
     - '#e34c52'
     - '#6c60de'
-  brandStrength: 0.5
-  lightness: 0
-  saturation: 0.5
-  rhythmicContrast: 0.5
-purpose: []
+  rhythmicContrast: 1
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: 'Poki & the Locos'
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0
+layout_spectrum: 0
